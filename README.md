@@ -6,3 +6,4 @@
 ### student-por: dataset containing data on student performance in Portuegese
 ### FinalProjectPart3: uses python in Juypter notebooks to answer quesetions about the student performance dataset.
 ### DS Programming Final Project: The slides for my final project presentation
+### Final Project Summary: A one page summary of the project
